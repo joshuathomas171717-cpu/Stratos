@@ -1,0 +1,8 @@
+{
+  "name": "STRATOS Sovereign Engine",
+  "description": "Institutional-grade neuro-symbolic stock analysis and double-verified portfolio allocation engine powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
